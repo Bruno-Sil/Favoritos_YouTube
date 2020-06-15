@@ -1,6 +1,6 @@
 # youtube
 
-A new Flutter project.
+Aplicativo com interface semelhante a do YouTube, com busca e listagem automática de vídeos.
 
 ## Getting Started
 

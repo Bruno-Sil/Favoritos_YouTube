@@ -2,10 +2,8 @@ import 'package:bloc_pattern/bloc_pattern.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_youtube/flutter_youtube.dart';
 import 'package:youtube/api.dart';
-import 'package:youtube/blocs/delegates/models/video.dart';
 import 'package:youtube/blocs/favorite_bloc.dart';
-
-
+import 'package:youtube/models/video.dart';
 
 class Favorites extends StatelessWidget {
   @override

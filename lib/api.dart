@@ -1,7 +1,6 @@
 import 'dart:convert';
-
-import 'blocs/delegates/models/video.dart';
 import 'package:http/http.dart' as http;
+import 'models/video.dart';
 
 const API_KEY = "AIzaSyDFyuxtRFqlRDsb504SFePqBuwXlSzTyjA"; // coloque sua própria API KEY!!!
 

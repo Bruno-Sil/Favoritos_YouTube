@@ -1,5 +1,6 @@
 name: youtube
-description: Aplicativo com interface semelhante a do YouTube, com busca e listagem automática de vídeos.
+description: Aplicativo com interface semelhante a do YouTube, com busca e listagem automática de vídeos, via consumo de API. 
+Aplicativo desenvolvido a partir do gerenciador de estado Bloc Pattern.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43

@@ -1,6 +1,6 @@
 # youtube
 
-Aplicativo com interface semelhante a do YouTube, com busca e listagem automática de vídeos.
+Aplicativo com interface semelhante a do YouTube, com busca e listagem automática de vídeos, via consumo de API. Aplicativo desenvolvido a partir do gerenciador de estado Bloc Pattern.
 
 ## Getting Started
 
